@@ -1,0 +1,30 @@
+streamlit
+pandas
+seaborn
+matplotlib
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+.venv/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Data (if you want to ignore big data)
+data/
+*.csv
+

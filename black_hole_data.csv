@@ -1,0 +1,11 @@
+galaxy_type,spin,luminosity,edd_ratio,mass
+Elliptical,0.85,50000,0.4,1200000
+Elliptical,0.7,45000,0.35,980000
+Spiral,0.4,12000,0.2,300000
+Spiral,0.5,15000,0.25,350000
+Lenticular,0.65,30000,0.3,650000
+Elliptical,0.9,60000,0.5,1500000
+Spiral,0.35,9000,0.18,250000
+Elliptical,0.88,55000,0.42,1300000
+Lenticular,0.6,28000,0.28,600000
+Spiral,0.45,14000,0.22,340000
