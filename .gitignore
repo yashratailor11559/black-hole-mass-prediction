@@ -1,31 +1,46 @@
+# ------------------------
 # Python
+# ------------------------
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.env
-env/
-venv/
-.venv/
-.Python
+*.py[cod]
+*$py.class
 
-# VS Code
-.vscode/
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+*.env
 
 # Jupyter
 .ipynb_checkpoints/
 
-# OS files
+# ------------------------
+# VS Code
+# ------------------------
+.vscode/
+
+# ------------------------
+# OS Generated
+# ------------------------
 .DS_Store
 Thumbs.db
 
-# Data - uncomment if you don't want to push raw data
-# data/
+# ------------------------
+# Data Files
+# ------------------------
+# If you want to exclude all CSV files, uncomment the next line:
 # *.csv
 
+# ------------------------
 # Logs
+# ------------------------
 *.log
 
-# Media (large files)
+# ------------------------
+# Large Media
+# ------------------------
 *.mp4
 *.mov
+*.avi
+*.mkv
