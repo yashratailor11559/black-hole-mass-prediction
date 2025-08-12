@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+.venv/
+.Python
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data - uncomment if you don't want to push raw data
+# data/
+# *.csv
+
+# Logs
+*.log
+
+# Media (large files)
+*.mp4
+*.mov
